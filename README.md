@@ -46,12 +46,23 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 # HOME PAGE
 
-![Change For Kids](https://test.changeforkids.org/application/files/9015/5975/3238/logo.png)
+![Change For Kids](https://test.changeforkids.org/application/files/9015/5975/3238/logo.png) We Provide / We belie
+
+## We believe (about)
+
+## Change for Kids Model x5
+
+Whether you volunteer, fundraise, or attend an event to benefit Change for Kids, you'll help create opportunities for young people to see themselves with different options and reimagine their own possibilities.
+
+## Events slider - single piece
+
+## Take Action - three containers
 
 ##### Our mission is to create opportunities for kids so they can overcome inequity.
 
 Change for Kids creates opportunities for kids in New York City public schools. We provide critical supports, experiences, and access so they can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibility and the tools
 with which to overcome inequity.
+
 
 
 ##### The Change For Kids Model
